@@ -1,0 +1,6 @@
+go to https://nodejs.org/en/download/ and download node.js
+go to command file and CD into a file
+type NPM init
+hit wnter until done
+type NPM install --save discord.js
+and download the index.js file and the baby yods memes file and you should be good
